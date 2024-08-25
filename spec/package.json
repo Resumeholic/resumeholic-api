@@ -1,0 +1,24 @@
+{
+  "name": "resumeholic",
+  "version": "1.0.0",
+  "type": "module",
+  "peerDependencies": {
+    "@typespec/compiler": "latest",
+    "@typespec/http": "latest",
+    "@typespec/openapi3": "latest",
+    "@typespec/rest": "latest",
+    "@typespec/versioning": "latest"
+  },
+  "devDependencies": {
+    "@typespec/compiler": "latest",
+    "@typespec/http": "latest",
+    "@typespec/openapi3": "latest",
+    "@typespec/rest": "latest",
+    "@typespec/versioning": "latest"
+  },
+  "private": true,
+  "dependencies": {
+    "@typespec/openapi": "latest",
+    "resumeholic": "file:"
+  }
+}
